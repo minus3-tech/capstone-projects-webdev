@@ -1,0 +1,283 @@
+/*---------Fonts-----------*/
+
+/*
+.irish-grover-regular {
+  font-family: "Irish Grover", system-ui;
+  font-weight: 400;
+  font-style: normal;
+}
+*/
+
+body {
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+p {
+    font-family: "Irish Grover", system-ui;
+    font-weight: 500;
+    font-style: normal;
+    font-size: xx-large;
+    margin-bottom: 0px;
+    text-align: center;
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+
+h3 {
+    font-family: "Irish Grover", system-ui;
+    font-weight: 350;
+    font-style: normal;
+    font-size: x-large;
+    margin-bottom: 0px;
+}
+
+.main-container {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+
+.card-container {
+    display: flex;
+    flex-wrap: wrap;
+    background-color: #b4b0b0;
+    border-radius: 10px;
+    max-width: 800px;
+    height: auto;
+    gap: 40px;
+    justify-content: center;
+    padding-bottom: 40px;
+}
+
+/*-----Yellow card--------*/
+
+#yellow-title {
+    color: gold;
+}
+
+.yellow-card {
+    background-color: gold;
+    border-radius: 7px;
+    width: 150px;
+    height: 150px;
+    align-content: center;
+    text-align: center;
+}
+
+
+/*-----Orange card--------*/
+
+#orange-title {
+    color: orangered;
+}
+
+.orange-card {
+    background-color: orangered;
+    border-radius: 7px;
+    width: 150px;
+    height: 150px;
+    align-content: center;
+    text-align: center;
+
+}
+
+/*-----Red card--------*/
+
+#red-title {
+    color: red;
+}
+
+.red-card {
+    background-color: red;
+    border-radius: 7px;
+    width: 150px;
+    height: 150px;
+    align-content: center;
+    text-align: center;
+}
+
+/*-----Purple card--------*/
+
+#purple-title {
+    color: purple;
+}
+
+.purple-card {
+    background-color: purple;
+    border-radius: 7px;
+    width: 150px;
+    height: 150px;
+    align-content: center;
+    text-align: center;
+}
+
+/*-----Blue card--------*/
+
+#blue-title {
+    color: blue;
+}
+
+.blue-card {
+    background-color: blue;
+    border-radius: 7px;
+    width: 150px;
+    height: 150px;
+    align-content: center;
+    text-align: center;
+}
+
+/*-----Green card--------*/
+
+#green-title {
+    color: green;
+}
+
+.green-card {
+    background-color: green;
+    border-radius: 7px;
+    width: 150px;
+    height: 150px;
+    align-content: center;
+    text-align: center;
+}
+
+/*-----Turquoise card--------*/
+
+#turquoise-title {
+    color: turquoise;
+}
+
+.turquoise-card {
+    background-color: turquoise;
+    border-radius: 7px;
+    width: 150px;
+    height: 150px;
+    align-content: center;
+    text-align: center;
+}
+
+/*-----Pink card--------*/
+
+#pink-title {
+    color: pink;
+}
+
+.pink-card {
+    background-color: pink;
+    border-radius: 7px;
+    width: 150px;
+    height: 150px;
+    align-content: center;
+    text-align: center;
+}
+
+/*-----Gray card--------*/
+
+#gray-title {
+    color: gray;
+}
+
+.gray-card {
+    background-color: gray;
+    border-radius: 7px;
+    width: 150px;
+    height: 150px;
+    align-content: center;
+    text-align: center;
+}
+
+/*-----Brown card--------*/
+
+#brown-title {
+    color: brown;
+}
+
+.brown-card {
+    background-color: brown;
+    border-radius: 7px;
+    width: 150px;
+    height: 150px;
+    align-content: center;
+    text-align: center;
+}
+
+/*-----White card--------*/
+
+#white-title {
+    color: whitesmoke;
+}
+
+.white-card {
+    background-color: whitesmoke;
+    border-radius: 7px;
+    width: 150px;
+    height: 150px;
+    align-content: center;
+    text-align: center;
+}
+
+/*-----Black card--------*/
+
+#black-title {
+    color: black;
+}
+
+.black-card {
+    background-color: black;
+    border-radius: 7px;
+    width: 150px;
+    height: 150px;
+    align-content: center;
+    text-align: center;
+}
+
+/*--------Images---------*/
+.image-chicken {
+    width: 50%;
+}
+
+.image-orange {
+    width: 50%;
+}
+
+.image-strawberry {
+    width: 50%;
+}
+
+.image-eggplant {
+    width: 30%;
+}
+
+.image-bird {
+    width: 50%;
+}
+
+.image-alien {
+    width: 50%;
+}
+
+.image-stone {
+    width: 50%;
+}
+
+.image-pig {
+    width: 50%;
+}
+
+.image-cat {
+    width: 50%;
+}
+
+.image-brownie {
+    width: 50%;
+}
+
+.image-snowman {
+    width: 50%;
+}
+
+.image-dog {
+    width: 50%;
+}
