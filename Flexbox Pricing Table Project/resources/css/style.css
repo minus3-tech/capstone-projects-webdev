@@ -1,0 +1,152 @@
+/*------------CSS code-------------*/
+
+body {
+    font-family: "Orbitron", sans-serif;
+    font-style: normal;
+}
+
+ul {
+    color: gray;
+    font-size: 0.5rem;
+    text-align: left;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+}
+
+ul li {
+  margin-bottom: 1rem; /* Adds space below each list item */
+}
+
+.main-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    background-color: #F8F8FF;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    border-radius: 15px;
+    gap: 25px;
+}
+
+.card {
+    flex-basis: 300px;
+    text-align: center;
+    background-color: white;
+    border-radius: 15px;
+}
+
+.card-basic {
+    background-image: linear-gradient(270deg, #d53369 0%, #daae51 100%);
+}
+
+.card-standard {
+    background-image: linear-gradient(90deg, #1CB5E0 0%, #000851 100%);
+}
+
+.card-premium {
+    background-image: linear-gradient(270deg, #00C9FF 0%, #92FE9D 100%);
+}
+
+.content {
+    background-color: whitesmoke;
+    padding-top: 25px;
+    border-radius: 0 0 15px 15px;
+}
+
+h1.service-level {
+    color: white;
+    text-transform: uppercase;
+    font-size: 1.5rem;
+    margin-bottom: 5px;
+}
+
+hr#white-line {
+    
+    width: 75%;
+    border: 1.5px solid white;
+}
+
+hr#gray-line {
+    border: 1.5px solid lightgray;
+    width: 30%;
+}
+
+p.service-level-description {
+    color: white;
+    font-size: 0.5rem;
+    margin-left: 30px;
+    margin-right: 30px;
+}
+
+#price-value {
+    color: black;
+    font-size: 3rem;
+    font-weight: bolder;
+}
+
+#dollar-sign {
+    vertical-align: super;
+    font-size: 2rem;
+    line-height: 0; 
+}
+
+#suscription-basis {
+    vertical-align: sub;
+    font-size: 1rem;
+    line-height: 0; 
+
+}
+
+#btn {
+    color: white;
+    font-size: 1rem;
+    text-transform: uppercase;
+    border-radius: 5px;
+}
+
+.basic-content > #btn {
+    background-image: linear-gradient(270deg, #d53369 0%, #daae51 100%);
+    color: white;
+    padding: 12px 24px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-weight: normal;
+}
+
+.standard-content > #btn {
+    background-image: linear-gradient(90deg, #1CB5E0 0%, #000851 100%);
+    color: white;
+    padding: 12px 24px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-weight: normal;
+}
+
+.premium-content > #btn {
+    background-image: linear-gradient(270deg, #00C9FF 0%, #92FE9D 100%);
+    color: white;
+    padding: 12px 24px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-weight: normal;
+}
+
+.content > ul {
+    list-style-type: square; /* Fallback option */
+}
+
+/*
+@media screen and (width <= 1080px) {
+    .main-container {
+        display: block;
+    }
+
+    .card {
+    width: 300px;
+}
+*/
