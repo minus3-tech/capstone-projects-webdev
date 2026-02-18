@@ -26,8 +26,10 @@ This repository is organized by technology stack. Below is an overview of the ke
 
 ### 1. HTML & CSS
 *Projects focusing on semantic markup, styling, flexbox, and grid layouts.*
-- **[Project Name 1]**: A brief description of what this page does (e.g., A personal tribute page).
-- **[Project Name 2]**: Description (e.g., A landing page for a fictional product).
+- **[Spanish Vocabulary]**: Learn the colors.
+- **[Meme Project]**: Understand the root cause of "Fo-Shur".
+- **[Pricing Table]**: Design of Service Subscription Options.
+- **[Pricing Table]**: Design of a Chessboard using CSS Grid.
 
 ### 2. Bootstrap
 *Projects utilizing the Bootstrap framework for rapid, responsive prototyping.*
