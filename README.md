@@ -29,7 +29,8 @@ This repository is organized by technology stack. Below is an overview of the ke
 - **[Spanish Vocabulary]**: Learn the colors.
 - **[Meme Project]**: Understand the root cause of "Fo-Shur".
 - **[Pricing Table]**: Design of Service Subscription Options.
-- **[Pricing Table]**: Design of a Chessboard using CSS Grid.
+- **[Chess Board]**: Design of a Chessboard using CSS Grid.
+- **[Mondrian Project]**: Design of a Mondrian Painting using CSS Grid.
 
 ### 2. Bootstrap
 *Projects utilizing the Bootstrap framework for rapid, responsive prototyping.*
