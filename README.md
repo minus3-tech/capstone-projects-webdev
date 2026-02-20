@@ -11,7 +11,7 @@ This repository documents my journey and progress as I build my skills as a Full
 Here is the current status of my learning path. I am progressively adding projects as I master each technology.
 
 - [x] **HTML5 & CSS3** (Current Focus)
-- [ ] **Bootstrap & Responsive Design**
+- [x] **Bootstrap & Responsive Design**
 - [ ] **JavaScript (ES6+)**
 - [ ] **APIs & Asynchronous Programming**
 - [ ] **Backend Development**
@@ -26,15 +26,15 @@ This repository is organized by technology stack. Below is an overview of the ke
 
 ### 1. HTML & CSS
 *Projects focusing on semantic markup, styling, flexbox, and grid layouts.*
-- **[Spanish Vocabulary]**: Learn the colors.
-- **[Meme Project]**: Understand the root cause of "Fo-Shur".
-- **[Pricing Table]**: Design of Service Subscription Options.
+- **[Spanish Vocabulary]**: Learn the colors in "¡Español!.
+- **[Meme Project]**: Understand the root cause of Macron's "Fo-Shur".
+- **[Pricing Table]**: Design of Service Subscription Cards.
 - **[Chess Board]**: Design of a Chessboard using CSS Grid.
 - **[Mondrian Project]**: Design of a Mondrian Painting using CSS Grid.
 
 ### 2. Bootstrap
 *Projects utilizing the Bootstrap framework for rapid, responsive prototyping.*
-- *Coming soon...*
+- **[TinDog Project]**: Design of a modern fake dating web site for dog! (inspired by the amazing Angela Yu's web dev bootcamp course: ![Udemy](https://www.udemy.com/user/4b4368a3-b5c8-4529-aa65-2056ec31f37e/)
 
 ### 3. JavaScript & DOM Manipulation
 *Interactive web applications using vanilla JavaScript.*
