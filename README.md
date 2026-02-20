@@ -34,7 +34,7 @@ This repository is organized by technology stack. Below is an overview of the ke
 
 ### 2. Bootstrap
 *Projects utilizing the Bootstrap framework for rapid, responsive prototyping.*
-- **[TinDog Project]**: Design of a modern fake dating web site for dog! (inspired by the amazing Angela Yu's web dev bootcamp course: !(https://www.udemy.com/user/4b4368a3-b5c8-4529-aa65-2056ec31f37e/)
+- **[TinDog Project]**: Design of a modern fake dating web site for dog! (inspired by the amazing Angela Yu's web dev bootcamp course: ![udemy](https://www.udemy.com/user/4b4368a3-b5c8-4529-aa65-2056ec31f37e/)
 
 ### 3. JavaScript & DOM Manipulation
 *Interactive web applications using vanilla JavaScript.*
