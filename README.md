@@ -12,7 +12,7 @@ Here is the current status of my learning path. I am progressively adding projec
 
 - [x] **HTML5 & CSS3** (Current Focus)
 - [x] **Bootstrap & Responsive Design**
-- [ ] **JavaScript (ES6+)**
+- [x] **JavaScript (ES6+)**
 - [ ] **APIs & Asynchronous Programming**
 - [ ] **Backend Development**
 - [ ] **Node.js & Express**
@@ -38,7 +38,7 @@ This repository is organized by technology stack. Below is an overview of the ke
 
 ### 3. JavaScript & DOM Manipulation
 *Interactive web applications using vanilla JavaScript.*
-- *Coming soon...*
+- **[Dicee Game]**: Randomized dice values.
 
 ### 4. Advanced Full Stack
 *Complex applications using Node.js, APIs, and React.*
